@@ -1,3 +1,4 @@
+#a documentation of the specific gems version that should be installed.
 GEM
   remote: http://rubygems.org/
   specs:
